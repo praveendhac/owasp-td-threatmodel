@@ -244,9 +244,10 @@
                   "ruleId": "87bc37e2-798e-4d68-bb96-feb1da26da48",
                   "title": "Generic repudiation threat",
                   "type": "Repudiation",
-                  "status": "Open",
+                  "status": "Mitigated",
                   "severity": "Medium",
-                  "description": "A generic repudiation threat"
+                  "description": "A generic repudiation threat",
+                  "mitigation": "we use crypto with proper audit logging"
                 }
               ],
               "attrs": {
