@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test tm1.0",
+    "owner": "PD",
+    "description": "test threat model 1.0"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "DP"
+  }
+}
