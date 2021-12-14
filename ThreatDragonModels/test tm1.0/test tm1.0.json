@@ -20,8 +20,8 @@
                 "height": 80
               },
               "position": {
-                "x": 283,
-                "y": 57
+                "x": 280,
+                "y": 50
               },
               "angle": 0,
               "id": "e1b5ff2e-f4fb-4b22-ba95-cee28131daad",
@@ -138,7 +138,12 @@
                 "x": 259,
                 "y": 196
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 260,
+                  "y": 140
+                }
+              ],
               "id": "d350e2c8-11f2-48c5-810b-36ad052f49f6",
               "z": 5,
               "attrs": {}
@@ -189,12 +194,7 @@
               "target": {
                 "id": "469a448a-396a-41b6-a1fe-deb03cebcce7"
               },
-              "vertices": [
-                {
-                  "x": 544,
-                  "y": 92
-                }
-              ],
+              "vertices": [],
               "id": "3955198d-f459-4db9-bbe5-5900acf90245",
               "labels": [
                 {
